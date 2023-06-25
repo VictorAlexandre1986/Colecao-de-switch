@@ -1,5 +1,7 @@
 # Colecao de switch
 
+Switches com animação
+
 ## Tecnologias utilizadas 
 
 <ul>
